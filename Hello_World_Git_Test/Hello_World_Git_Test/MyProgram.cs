@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Hello_World_Git_Test
 {
-    class Program
+    class MyProgram
     {
-        static void Main(string[] args)
+        public void Run()
         {
-            MyProgram myProgram = new MyProgram();
-            myProgram.Run();
-        }           
+            Console.WriteLine("Hello World");
+            Console.ReadLine();
+        }
+
     }
 }

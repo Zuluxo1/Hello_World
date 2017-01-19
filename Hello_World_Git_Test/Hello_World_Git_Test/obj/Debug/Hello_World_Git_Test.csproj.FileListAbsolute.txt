@@ -1,1 +1,4 @@
 c:\users\gustav.karltonfange\documents\visual studio 2015\Projects\Hello_World_Git_Test\Hello_World_Git_Test\bin\Debug\Hello_World_Git_Test.exe.config
+C:\Users\Gustav.karltonfange\Documents\GitHub\Hello_World\Hello_World_Git_Test\Hello_World_Git_Test\bin\Debug\Hello_World_Git_Test.exe.config
+C:\Users\Gustav.karltonfange\Documents\GitHub\Hello_World\Hello_World_Git_Test\Hello_World_Git_Test\obj\Debug\Hello_World_Git_Test.exe
+C:\Users\Gustav.karltonfange\Documents\GitHub\Hello_World\Hello_World_Git_Test\Hello_World_Git_Test\obj\Debug\Hello_World_Git_Test.pdb
